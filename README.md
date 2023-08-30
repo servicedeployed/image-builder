@@ -1,5 +1,9 @@
 # Image Builder
 
+Megaport tldr; 
+
+`make build-qemu-ubuntu-2204-gpu`
+
 ## Please see our [Book](https://image-builder.sigs.k8s.io) for more in-depth documentation.
 
 ## What is Image Builder?
